@@ -16,6 +16,8 @@ function openTab(tabName) {
     document.getElementById(tabName).classList.add('active-tab');
 }
 
+
+
 // ---------------- JS for Mobile Menu ------------------
 var mobileMenu = document.getElementById("mobile-menu");
 function openMenu() {
